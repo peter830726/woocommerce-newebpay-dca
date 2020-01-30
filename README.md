@@ -1,6 +1,6 @@
 <h1 align="center">woocommerce - 藍新定期定額外掛</h1>
 
-必須安裝之外掛：
+<h3>必須安裝之外掛</h3>
 <table>
     <tr>
         <td>名稱</td>
@@ -15,9 +15,8 @@
         <td>https://docs.woocommerce.com/document/subscriptions/</td>
     </tr>
 </table>
-- woocommerce subscription (v2.6.1) 
 
-搭配下列外掛，可以使整體使用效果更好:
+<h3>搭配下列外掛，可以使整體使用效果更好</h3>
 <table>
     <tr>
         <td>名稱</td>
