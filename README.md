@@ -11,7 +11,7 @@
     <tr>
         <td>woocommerce subscription</td>
         <td>v1.2.1</td>
-        <td>可以針對商品指定付款方式</td>
+        <td>搭配 woocommerce 可以使用訂閱制商品</td>
         <td>https://docs.woocommerce.com/document/subscriptions/</td>
     </tr>
 </table>
