@@ -41,6 +41,8 @@
     * 依據需求設定相關參數
     
 ## 設定訂閱制商品
+* 目的
+
 * 商品 -> 新增
     * 商品資料
         * 選取 Simple subscription
@@ -51,7 +53,7 @@
             * 庫存
                 * 勾選「限購一件」
             * 進階
-                * Limit subscription -> Limit to one active subscription
-
-    * 依據需求設定商品之相關參數(EX: 商品名稱、商品內文、商品發佈..等等)
+                * Limit subscription 選擇 「 Limit to one active subscription 」
+         * 自行設定 __商品分類__ 或是 __商品標籤__，一定要設定分類或標籤，才能使 __Payment Gateways per Products for WooCommerce__ 有作用。
+    * 再來就是依據需求自行設定商品之相關參數(EX: 商品名稱、商品內文、商品發佈..等等)
     
