@@ -1,6 +1,6 @@
 <h1 align="center">woocommerce - 藍新定期定額外掛</h1>
 
-###必須安裝之外掛
+### 必須安裝之外掛
 <table>
     <tr>
         <td>名稱</td>
@@ -16,7 +16,7 @@
     </tr>
 </table>
 
-###搭配下列外掛，可以使整體使用效果更好
+### 搭配下列外掛，可以使整體使用效果更好
 <table>
     <tr>
         <td>名稱</td>
@@ -32,13 +32,13 @@
     </tr>
 </table>
 
-#啟動步驟
-##安裝外掛
-*安裝 woocommerce subscription 外掛
-*安裝藍新金流定期定額外掛
-*安裝 Payment Gateways per Products for WooCommerce 外掛
+# 啟動步驟
+## 安裝外掛
+* 安裝 woocommerce subscription 外掛
+* 安裝藍新金流定期定額外掛
+* 安裝 Payment Gateways per Products for WooCommerce 外掛
 
-##設定 woocommerce subscription
-*1
-*2
+## 設定 woocommerce subscription
+* 1
+* 2
 *3
