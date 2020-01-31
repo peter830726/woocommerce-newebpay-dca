@@ -44,7 +44,7 @@
     
 * ## 訂閱制商品設定
     * ### 訂閱制商品與非訂閱制商品需分類
-        * 分類的目的在於分開付款方式，才能讓 __Payment Gateways per Products for WooCommerce外掛__ 有效用。
+        * 分類的目的在於分開付款方式，使 __Payment Gateways per Products for WooCommerce外掛__ 可以針對商品指定付款方式。
          * 如何才能分類
             * 使用 __商品分類__ 或是 __商品標籤__，兩種分類方式擇一使用即可。
         * 最少需分兩類
