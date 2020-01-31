@@ -36,8 +36,6 @@
             * Manual Renewal Payments
                 * 勾選 Accept Manual Renewals
                 * 勾選 Turn off Automatic Payments
-            * Auto Renewal Toggle
-                * 勾選 Display the auto renewal toggle 
         
 * ## 藍新金流定期定額設定
     * ### 操作
