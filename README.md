@@ -31,16 +31,18 @@
 
 # 訂閱制設定
 * ## woocommerce subscription 設定
-    * Woocommerce -> 設定 -> Subscriptions
-        * Manual Renewal Payments
-            * 勾選 Accept Manual Renewals
-            * 勾選 Turn off Automatic Payments
-        * Auto Renewal Toggle
-            * 勾選 Display the auto renewal toggle 
+    * ### 操作
+        * Woocommerce -> 設定 -> Subscriptions
+            * Manual Renewal Payments
+                * 勾選 Accept Manual Renewals
+                * 勾選 Turn off Automatic Payments
+            * Auto Renewal Toggle
+                * 勾選 Display the auto renewal toggle 
         
 * ## 藍新金流定期定額設定
-    * Woocommerce -> 設定 -> 付款 -> 藍新金流定期定額 -> 管理
-        * 依據需求設定相關參數
+    * ### 操作
+        * Woocommerce -> 設定 -> 付款 -> 藍新金流定期定額 -> 管理
+            * 依據需求設定相關參數
     
 * ## 訂閱制商品設定
     * ### 訂閱制商品與非訂閱制商品需分類
