@@ -36,6 +36,7 @@
             * Manual Renewal Payments
                 * 勾選 Accept Manual Renewals
                 * 勾選 Turn off Automatic Payments
+            * 其餘選項不要勾選，可能會影響到藍新定期定額模組之運作。
         
 * ## 藍新金流定期定額設定
     * ### 操作
