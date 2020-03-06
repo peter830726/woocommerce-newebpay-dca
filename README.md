@@ -37,13 +37,19 @@
 </ol>
 
 # 訂閱制設定
-* ## woocommerce subscription 設定
+* ## WooCommerce Subscriptions 設定
     * ### 操作
         * Woocommerce -> 設定 -> Subscriptions
             * Manual Renewal Payments
                 * 勾選 Accept Manual Renewals
                 * 勾選 Turn off Automatic Payments
             * 其餘選項不要勾選，可能會影響到藍新定期定額模組。
+
+* ## WooCommerce Memberships 設定
+    * ### 操作
+        * Woocommerce -> Memerberships -> Memberships Plan -> Add Membership Plan
+            * 設定標題即可，其餘後續會綁定 Woocommerce Subscriptions 完成會員訂閱制功能，
+              EX: 訂閱制付款週期依據 Woocommerce Subscriptions 進行綁定。
         
 * ## 藍新金流定期定額設定
     * ### 操作
