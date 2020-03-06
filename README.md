@@ -9,16 +9,22 @@
         <td>網站介紹</td>
     </tr>
     <tr>
-        <td>woocommerce subscription</td>
-        <td>v1.2.1</td>
-        <td>搭配 woocommerce 可以使用訂閱制商品</td>
-        <td>https://docs.woocommerce.com/document/subscriptions/</td>
-    </tr>
-    <tr>
         <td>Payment Gateways per Products for WooCommerce</td>
         <td>v1.2.1</td>
         <td>可以針對商品指定付款方式</td>
         <td>https://wordpress.org/plugins/payment-gateways-per-product-categories-for-woocommerce/</td>
+    </tr>
+    <tr>
+        <td>WooCommerce Subscriptions</td>
+        <td>v2.6.1</td>
+        <td>搭配 woocommerce 可以使用訂閱制商品</td>
+        <td>https://docs.woocommerce.com/document/subscriptions/</td>
+    </tr>
+    <tr>
+        <td>WooCommerce Memberships</td>
+        <td>1.13.1</td>
+        <td>搭配 woocommerce 可以進行會員訂閱制，限制文章觀看或商品購買權限..等等</td>
+        <td>https://www.woocommerce.com/products/woocommerce-memberships/</td>
     </tr>
 </table>
 
