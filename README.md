@@ -30,7 +30,8 @@
 
 ## 外掛安裝流程
 <ol>
-<li>安裝 woocommerce subscription 外掛</li>
+<li>安裝 WooCommerce Subscriptions 外掛</li>
+<li>安裝 WooCommerce Memberships 外掛</li>
 <li>安裝藍新金流定期定額外掛</li>
 <li>安裝 Payment Gateways per Products for WooCommerce 外掛</li>
 </ol>
